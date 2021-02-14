@@ -1,0 +1,2 @@
+  - designed mainly for the postmote shell, but I can upload modified files to fit other designs if needed
+  - BLANKS and Poastmote theme available 
