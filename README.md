@@ -6,7 +6,7 @@
    - smol form factor!
    - pinky rest :D
    - yote the practically useless T button XD
-   - finger "tabs" for better frip and comfort
+   - finger "tabs" for better grip and comfort
    - super pocket use friendly
    - should support all microUSB cables up to [9.6 x 6.4mm] tip size (subject to change depending on requests)
 
