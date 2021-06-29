@@ -1,5 +1,7 @@
 # poastmote_uwu
 
+if you want to sell this, that's fine but let me know before you do it and at the BARE minimum, give proper credit and don't try to put it off as your own. -Poastoast
+
  uwu just a custom shell for the Hoyt puccccccccc. [x] denotes the handedness of course :D
 
  features:
